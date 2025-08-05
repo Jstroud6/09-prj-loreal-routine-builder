@@ -1,88 +1,88 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "cerave-cleanser",
+      "name": "CeraVe Hydrating Facial Cleanser",
       "brand": "CeraVe",
-      "name": "Foaming Facial Cleanser",
       "category": "cleanser",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Foaming_Facial_Cleanser.png",
-      "description": "Gentle gel cleanser with ceramides, hyaluronic acid, and niacinamide. Deeply cleanses normal to oily skin, removing oil, dirt, and makeup without harming the barrier. Foaming, fragrance-free, non-comedogenic; leaves skin feeling refreshed and non-tight. Suitable for normal to oily and acne-prone skin."
+      "description": "A gentle cleanser for normal to dry skin with ceramides and hyaluronic acid.",
+      "image": "https://www.cerave.com/-/media/project/loreal/cerave/americas/us/products/cleansers/hydrating-facial-cleanser/hydrating-facial-cleanser-16oz-front.png",
+      "link": "https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser"
     },
     {
-      "id": 2,
-      "brand": "CeraVe",
-      "name": "Hydrating Facial Cleanser",
-      "category": "cleanser",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Hydrating_Facial_Cleanser.png",
-      "description": "Lotion-like, non-foaming cleanser for normal to dry skin. Ceramides and hyaluronic acid restore the barrier and lock in moisture. Gently removes impurities and makeup without stripping essential hydration. Fragrance-free, non-irritating, National Eczema Association approved; ideal for sensitive or dry skin."
-    },
-    {
-      "id": 3,
-      "brand": "CeraVe",
-      "name": "Moisturizing Cream",
+      "id": "loreal-moisturizer",
+      "name": "L'Oréal Paris Revitalift Triple Power Moisturizer",
+      "brand": "L'Oréal Paris",
       "category": "moisturizer",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Moisturizing_Cream.png",
-      "description": "Rich, velvety cream for face and body with 24-hour hydration for dry to very dry skin. Three ceramides plus MVE Technology release moisture continuously and restore the barrier. Hyaluronic acid locks in hydration. Fragrance-free, non-comedogenic; leaves skin smooth, soft, and protected."
+      "description": "Anti-aging moisturizer with Pro-Retinol, Vitamin C, and Hyaluronic Acid.",
+      "image": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/moisturizers/revitalift-triple-power-moisturizer/revitalift-triple-power-moisturizer-1-7oz-front.png",
+      "link": "https://www.lorealparisusa.com/products/skin-care/moisturizers/revitalift-triple-power-moisturizer"
     },
     {
-      "id": 4,
-      "brand": "CeraVe",
-      "name": "AM Facial Moisturizing Lotion SPF 30",
-      "category": "moisturizer",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_AM_Facial_Moisturizing_Lotion_SPF_30.jpg",
-      "description": "Oil-free daily lotion with broad-spectrum SPF 30. Ceramides support the barrier, hyaluronic acid hydrates, and niacinamide soothes. InVisibleZinc™ technology blocks UVA/UVB without a white cast. Lightweight, non-greasy, fragrance-free, non-comedogenic; absorbs quickly for all skin types."
+      "id": "garnier-shampoo",
+      "name": "Garnier Fructis Sleek & Shine Shampoo",
+      "brand": "Garnier",
+      "category": "haircare",
+      "description": "Shampoo for frizzy, dry hair with argan oil and active fruit protein.",
+      "image": "https://www.garnierusa.com/-/media/project/loreal/brand-sites/garnier/americas/us/products/hair-care/fructis/sleek-and-shine/shampoo/sleek-shine-shampoo-front.png",
+      "link": "https://www.garnierusa.com/about-our-brands/fructis/sleek-and-shine/shampoo"
     },
     {
-      "id": 5,
-      "brand": "CeraVe",
-      "name": "PM Facial Moisturizing Lotion",
-      "category": "moisturizer",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_PM_Facial_Moisturizing_Lotion.png",
-      "description": "Ultra-light, oil-free night lotion that hydrates and repairs overnight. Ceramides restore the barrier, hyaluronic acid retains moisture, and niacinamide soothes. MVE Technology provides continuous hydration. Fragrance-free, non-comedogenic; skin feels soft and refreshed by morning."
+      "id": "lancome-foundation",
+      "name": "Lancôme Teint Idole Ultra Wear Foundation",
+      "brand": "Lancôme",
+      "category": "makeup",
+      "description": "Longwear liquid foundation with full coverage and a natural matte finish.",
+      "image": "https://www.lancome-usa.com/on/demandware.static/-/Sites-lancome-master-catalog/default/dw0e7e5c2e/images/large/3605530740847_1.png",
+      "link": "https://www.lancome-usa.com/makeup/face/foundation/teint-idole-ultra-wear-foundation/3605530740847.html"
     },
     {
-      "id": 6,
-      "brand": "CeraVe",
-      "name": "Resurfacing Retinol Serum",
-      "category": "skincare",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Resurfacing_Retinol_Serum.png",
-      "description": "Lightweight retinol gel serum to smooth texture and fade post-acne marks. Encapsulated retinol boosts cell turnover; licorice extract brightens; ceramides restore the barrier; niacinamide calms. Fast-absorbing, fragrance-free, non-comedogenic; refines pores and scars over time."
+      "id": "loreal-haircolor",
+      "name": "L'Oréal Paris Excellence Creme Hair Color",
+      "brand": "L'Oréal Paris",
+      "category": "hair color",
+      "description": "Permanent hair color with triple protection system for rich, radiant color.",
+      "image": "https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/products/hair-color/excellence/excellence-creme/excellence-creme-6a-light-ash-brown-front.png",
+      "link": "https://www.lorealparisusa.com/products/hair-color/permanent-hair-color/excellence-creme"
     },
     {
-      "id": 7,
-      "brand": "CeraVe",
-      "name": "Skin Renewing Vitamin C Serum",
-      "category": "skincare",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Skin_Renewing_Vitamin_C_Serum.png",
-      "description": "Brightening serum with 10% vitamin C and ceramide complex to boost radiance and even tone. Hyaluronic acid plumps, vitamin B5 soothes. Improves clarity and fine lines for a luminous complexion. Fragrance-free and gentle for daily use."
+      "id": "kerastase-styling",
+      "name": "Kérastase Discipline Fluidissime Spray",
+      "brand": "Kérastase",
+      "category": "hair styling",
+      "description": "Anti-frizz spray for smoothness and shine, suitable for all hair types.",
+      "image": "https://www.kerastase-usa.com/on/demandware.static/-/Sites-kerastase-master-catalog/default/dw7e7e5c2e/images/large/3474630655916_1.png",
+      "link": "https://www.kerastase-usa.com/collections/discipline/fluidissime-spray.html"
     },
     {
-      "id": 8,
-      "brand": "CeraVe",
-      "name": "Eye Repair Cream",
-      "category": "skincare",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Eye_Repair_Cream.png",
-      "description": "Nourishing eye cream to reduce dark circles and puffiness. Marine & Botanical Complex brightens; hyaluronic acid and ceramides hydrate; niacinamide soothes. Fast-absorbing, non-greasy, hypoallergenic, and ophthalmologist-tested; smooths and refreshes the eye area."
+      "id": "kiehls-men",
+      "name": "Kiehl's Facial Fuel Energizing Moisture Treatment for Men",
+      "brand": "Kiehl's",
+      "category": "men's grooming",
+      "description": "Moisturizer for men with vitamins C and E, chestnut extract, and soy.",
+      "image": "https://www.kiehls.com/on/demandware.static/-/Sites-kiehls-master-catalog/default/dw7e7e5c2e/images/large/3605970026357_1.png",
+      "link": "https://www.kiehls.com/mens/facial-fuel-energizing-moisture-treatment-for-men/3605970026357.html"
     },
     {
-      "id": 9,
-      "brand": "CeraVe",
-      "name": "Renewing SA Cleanser",
-      "category": "cleanser",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/CeraVe_Renewing_SA_Cleanser.png",
-      "description": "Exfoliating gel with salicylic acid to remove dead skin cells and soften texture. Ceramides support the barrier; hyaluronic acid retains moisture; niacinamide calms. Cleanses and smooths bumpy skin without drying. Fragrance-free; improves clarity and softness for uneven skin."
-    },
-    {
-      "id": 10,
+      "id": "la-roche-posay-sunscreen",
+      "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 60",
       "brand": "La Roche-Posay",
-      "name": "Toleriane Hydrating Gentle Cleanser",
-      "category": "cleanser",
-      "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/La_Roche-Posay_Toleriane_Hydrating_Gentle_Cleanser.png",
-      "description": "Creamy, soap-free cleanser for normal to dry, sensitive skin. Thermal water, ceramide-3, niacinamide, and glycerin soothe and maintain the barrier. Gently removes impurities without drying. Oil-free, fragrance-free, pH-balanced, allergy-tested; leaves skin comfortable and clean."
+      "category": "suncare",
+      "description": "Broad spectrum SPF 60 sunscreen for face and body, suitable for sensitive skin.",
+      "image": "https://www.laroche-posay.us/on/demandware.static/-/Sites-larocheposay-master-catalog/default/dw7e7e5c2e/images/large/3337875545811_1.png",
+      "link": "https://www.laroche-posay.us/sunscreen/anthelios-melt-in-milk-sunscreen-spf-60-3337875545811.html"
     },
     {
-      "id": 11,
-      "brand": "La Roche-Posay",
+      "id": "ysl-fragrance",
+      "name": "Yves Saint Laurent Libre Eau de Parfum",
+      "brand": "Yves Saint Laurent",
+      "category": "fragrance",
+      "description": "A bold floral fragrance with lavender essence and orange blossom.",
+      "image": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-master-catalog/default/dw7e7e5c2e/images/large/3614272648414_1.png",
+      "link": "https://www.yslbeautyus.com/fragrance/libre-eau-de-parfum/3614272648414.html"
+    }
+  ]
+}
       "name": "Anthelios Ultra-Light Fluid Face Sunscreen SPF 60",
       "category": "skincare",
       "image": "https://cdn.jsdelivr.net/gh/GCA-Classroom/09-loreal-images/img/La-Roche-Posay-Anthelios-Ultra-Light-Fluid-Face-Sunscreen-SPF-60.jpg",
